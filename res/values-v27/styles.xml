@@ -16,6 +16,7 @@
 -->
 <resources>
     <style name="BugleBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:forceDarkAllowed">true</item>
         <item name="android:navigationBarColor">@android:color/white</item>
         <item name="android:navigationBarDividerColor">#1f000000</item>
         <item name="android:windowLightNavigationBar">true</item>
